@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Dwm_02Activity!</string>
+    <string name="app_name">Dwm_02</string>
+    <color name="DarkRed">#8B0000</color>
+</resources>
